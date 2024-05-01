@@ -15,6 +15,8 @@ This is an interactive installation. Users can interact with the particles on th
 
 [➡️ Coding Technique Source](https://www.youtube.com/watch?v=_gz8FMduwRc)
 ![](images/code3.jpg)
+[⬆️ Effect Demonstration](https://webflow.com/made-in-webflow/website/picture-to-particles?utm_medium=affiliate&ps_partner_key=a2VlZ2FubGVhcnk4Njcy&ps_xid=akuj0vsC3W06hl&gsxid=akuj0vsC3W06hl&gspk=a2VlZ2FubGVhcnk4Njcy)  
+
 The following code is to convert an image into an interactive particle system using p5.js. First, we need to create a particle and then use a for loop to generate multiple particles. After that we need to set the size of the particles and the resolution of the image, we need to set the color of the particles to get color by image so that they blend in with the background. After that, we need to read the mouse vector and calculate the distance from the mouse to the particle. At the same time, we need to calculate the vector of the particles that are hovered over by the mouse. The last step is to repulse particles from mouse to realize the effect of particles interacting with mouse.  
 
 ![](images/code1.jpg)
