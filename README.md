@@ -7,12 +7,12 @@ This is an interactive installation. Users can interact with the particles on th
 [➡️Inspiration Artwork](https://www.behance.net/gallery/91186295/Arkhe?tracking_source=search_projects|creative+coding&l=40)
 ![](images/inspiration1.jpg)  
 ![](images/inspiration2.jpg)
-![](images/inspiration3.jpg)
+![](images/inspiration3.jpg)  
 
 
 **Coding Technique Exploration**  
 
-[Coding Technique Source](https://www.youtube.com/watch?v=_gz8FMduwRc)
+[➡️Coding Technique Source](https://www.youtube.com/watch?v=_gz8FMduwRc)
 ![](images/code3.jpg)
 The following code is to convert an image into an interactive particle system using p5.js. First, we need to create a particle and then use a for loop to generate multiple particles. After that we need to set the size of the particles and the resolution of the image, we need to set the color of the particles to get color by image so that they blend in with the background. After that, we need to read the mouse vector and calculate the distance from the mouse to the particle. At the same time, we need to calculate the vector of the particles that are hovered over by the mouse. The last step is to repulse particles from mouse to realize the effect of particles interacting with mouse.  
 
