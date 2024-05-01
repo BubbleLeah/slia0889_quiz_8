@@ -9,6 +9,7 @@ This is an interactive installation. Users can interact with the particles on th
 ![](images/inspiration2.jpg)
 ![](images/inspiration3.jpg)  
 
+---
 
 **2.Coding Technique Exploration**  
 
